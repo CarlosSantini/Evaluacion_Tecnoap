@@ -1,4 +1,5 @@
 # Evaluacion_Tecnoap
+
 Evaluación para vacante de Científico de Datos en Tecnoap realizada por 
 Carlos Alberto Juarez Santini
 
@@ -15,3 +16,7 @@ Es necesario cargar los dataset "Faults.train" y "Faults.test" en la carpeta ra�
 El archivo "Faults_completed.test", es el archivo generado al final de todo el proceso. Este archivo sigue la estructura de "Faults.train" pero con los datos de "Faults.test", agregandole la prediccion de la clase generada por el algoritmo, que corresponde cada instancia. Es decir se agregan 7 columnas más en el archivo.
 
 "Tecnoap_decision_tree.pdf" es un mapa que representa las decisiones hechas por el arbol de decision entrenado.
+
+
+
+** NOTA: ** Al final del archivo "Tecnoap_Evaluacion.ipynb" se detalla la solucion y justificacion para este problema
